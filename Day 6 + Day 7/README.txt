@@ -50,5 +50,6 @@ Finished working on extension of Neurotech Week 11 Assignment, Option B - MATLAB
 	I exported the model into my MATLAB workspace and ran it with my test data. Results can be found in the angry_smiling.mlx file.
 
 Worked on MATLAB file to explain iEMG
+-iEMG means integrated EMG. This is the sum of the absolute value of raw EMG data. We use it to understand a raise in signal power and amplitude.
 
 
