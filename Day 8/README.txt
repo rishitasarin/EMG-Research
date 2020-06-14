@@ -13,3 +13,18 @@ Day 8 Overview (6/11/2020)
 
 -Looked at all the features mentioned in the paper and tried to code them in matlab (features_matlab_code.mlx). Some of the code was extracted from a Toolbox
 available on Matlab File Exchange.
+
+Day 9 Overview (6/12/2020)
+-Looked up all the features mentioned in the sensors paper and the feature extraction paper
+-After understanding each feature formula, coded it into Matlab independently
+-Separated features into 4 categories:
+	Signal Amplitude and Power Feature Group
+	Frequency Information Feature Group
+	Nonlinear Complexity Feature Group
+	Time Series Modelling Feature Group
+	Unique Feature Group
+More detail can be found in the features_matlab_code.mlx file.
+-Questions for Team: 
+	1. L-scale? Sample Entropy?
+	2. Difference between AR and CC?
+	3. Function of MFL?
